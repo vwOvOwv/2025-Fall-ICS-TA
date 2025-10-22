@@ -2,13 +2,13 @@
 Fully handmade slides for students in section 23, mainly focusing on CSAPP3e content.
 
 ## Lecture Slides
-| Week   | Topic                                  |Snapshot|
-|--------|----------------------------------------|--------|
-| Week 1 | Welcome||
-| Week 2 | Representation|<img src="./figs/Week2.svg" width="200">|
-| Week 3 | Compilation System I|<img src="./figs/Week3.svg" width="200">|
-| Week 5 | Compilation System II, III|<img src="./figs/Week5.svg" width="200">|
-| Week 7 | Processor Architecture: Sequential and Pipelined|<img src="./figs/Week7.svg" width="200">|
+| Week   | Topic                                  |Content|Snapshot|
+|--------|----------------------------------------|-------------------------------|-------|
+| Week 1 | Welcome|||
+| Week 2 | Representation|Bits & Integers, Floating Points|<img src="./figs/Week2.svg" width="200">|
+| Week 3 | Compilation System I|Machine-Level Programming: Basics & Control|<img src="./figs/Week3.svg" width="200">|
+| Week 5 | Compilation System II, III|Machine-Level Programming: Procedure, Data & Advanced|<img src="./figs/Week5.svg" width="200">|
+| Week 7 | Processor Arch I|ISA & Logics, SEQ Processor|<img src="./figs/Week7.svg" width="200">|
 <!-- | Week 8 | Optimization, Memory and Midterm Review |
 | Week 9 | Midterm Explanation                    |
 | Week 10| Static Linking I                       |
