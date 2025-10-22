@@ -1,21 +1,11 @@
 # 2025-Fall-ICS-TA
-Fully handmade slides for students in section 23, mainly focusing on CSAPP3e content.
+Fully handmade slides for students in section 23, under active update🔥.
 
 ## Lecture Slides
 | Week   | Topic                                  |Content|Snapshot|
 |--------|----------------------------------------|-------------------------------|-------|
-| Week 1 | Welcome|||
+| Week 1 | Welcome|Course Overview| |
 | Week 2 | Representation|Bits & Integers, Floating Points|<img src="./figs/Week2.svg" width="200">|
 | Week 3 | Compilation System I|Machine-Level Programming: Basics & Control|<img src="./figs/Week3.svg" width="200">|
 | Week 5 | Compilation System II, III|Machine-Level Programming: Procedure, Data & Advanced|<img src="./figs/Week5.svg" width="200">|
-| Week 7 | Processor Arch I|ISA & Logics, SEQ Processor|<img src="./figs/Week7.svg" width="200">|
-<!-- | Week 8 | Optimization, Memory and Midterm Review |
-| Week 9 | Midterm Explanation                    |
-| Week 10| Static Linking I                       |
-| Week 11| Static Linking II and ECF              |
-| Week 12| Dynamic Linking, Sys-IO & VM I         |
-| Week 13| VM II and Final Review I              |
-| Week 14| Computer Network I and Final Review II  |
-| Week 15| Computer Network II and Final Review III  |
-| Week 16| Synchronization, Final Review IV and Goodbye  | -->
-
+| Week 7 | Processor Arch I|ISA & Logic, SEQ Processor|<img src="./figs/Week7.svg" width="200">|
