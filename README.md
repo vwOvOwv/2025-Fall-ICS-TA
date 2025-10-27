@@ -3,7 +3,7 @@ Fully handmade slides for students in section 23 (actively updating🔥).
 
 ## Lecture Slides
 | Week   | Topic                                  |Content|Snapshot|
-|--------|----------------------------------------|-------------------------------|-------|
+|:--------:|:----------------------------------------:|:-------------------------------:|:-------:|
 | Week 1 | Welcome|Course Overview| |
 | Week 2 | Representation|Bits, Bytes & Integers, Floating Points|<img src="./figs/Week2.svg" width="200">|
 | Week 3 | Compilation System I|Machine-Level Programming: Basics & Control|<img src="./figs/Week3.svg" width="200">|
