@@ -12,5 +12,5 @@ Fully handmade slides for students in section 23 (updating🔥).
 | 8 | Processor Arch II|Pipelined Processor|<img src="./figs/Week8.svg" width="200">|
 
 ## Supplementary Materials
-- [SEQ Summary Sheet](./Week7-SEQ_Summary.pdf)
-- [PIPE Summary Sheet](./Week8-PIPE_Summary.pdf)
+- [SEQ Summary Sheet](Week7-SEQ_Summary.pdf)
+- [PIPE Summary Sheet](Week8-PIPE_Summary.pdf)
