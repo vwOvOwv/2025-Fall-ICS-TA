@@ -12,6 +12,7 @@ Fully handmade slides for students in section 23 (updating🔥).
 | 8 | Processor Arch II|Pipelined Processor|<img src="./figs/Week8.png" width="600">|
 | 9 | Memory Hierarchy|Cache, Main Memory& Disk|<img src="./figs/Week9-1.png" width="600">|
 | 9 | Optimization|Program Optimization|<img src="./figs/Week9-2.png" width="600">|
+|10| Linking| Static Linking and Intro. to Dynamic Linking<img src="./figs/Week10.png" width="600">||
 ## Supplementary Materials
 - [SEQ Summary Sheet](./Week7-SEQ_Summary.pdf)
 
