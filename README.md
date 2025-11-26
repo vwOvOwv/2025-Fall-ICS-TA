@@ -13,6 +13,7 @@ Fully handmade slides for students in section 23 (updating🔥).
 | 9 | Memory Hierarchy|Cache, Main Memory& Disk|<img src="./figs/Week9-1.png" width="600">|
 | 9 | Optimization|Program Optimization|<img src="./figs/Week9-2.png" width="600">|
 |10| Linking| Static Linking and Intro. to Dynamic Linking|<img src="./figs/Week10.png" width="600">|
+|12| ECF | Exceptional Control Flow |<img src="./figs/Week12.png" width="600">|
 ## Supplementary Materials
 - [SEQ Summary Sheet](./Week7-SEQ_Summary.pdf)
 
