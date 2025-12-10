@@ -14,7 +14,8 @@ Fully handmade slides for students in section 23 (updating🔥).
 | 9 | Optimization|Program Optimization|<img src="./figs/Week9-2.png" width="600">|
 |10| Linking| Static Linking & Intro. to Dynamic Linking|<img src="./figs/Week10.png" width="600">|
 |12| ECF | Exceptional Control Flow |<img src="./figs/Week12.png" width="600">|
-|13| Virtual Memory | Concepts & Address Translation |<img src="./figs/Week13.png" width="600">|
+|13| Virtual Memory I | Concepts & Address Translation |<img src="./figs/Week13.png" width="600">|
+|14| Virtual Memory II | Systems & Management |<img src="./figs/Week14.png" width="600">|
 ## Supplementary Materials
 - [SEQ Summary Sheet](./Week7-SEQ_Summary.pdf)
 
