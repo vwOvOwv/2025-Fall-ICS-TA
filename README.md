@@ -1,5 +1,5 @@
 # 2025-Fall-ICS-TA
-Fully handmade slides for students in section 23 (updating🔥).
+Fully handmade slides for students in section 23.
 
 ## Lecture Slides
 | Week   | Topic                                  |Content|Snapshot|
