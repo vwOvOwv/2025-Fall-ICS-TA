@@ -18,6 +18,7 @@ Fully handmade slides for students in section 23 (updating🔥).
 |14| Virtual Memory II | Systems & Management |<img src="./figs/Week14.png" width="600">|
 |15| System-Level I/O | File System & I/O |<img src="./figs/Week15-1.png" width="600">|
 |15| Computer Networks | Concepts & Programming |<img src="./figs/Week15-2.png" width="600">|
+|16| Goodbye | Course Review & Farewell |<img src="./figs/Week16.png" width="600">|
 
 ## Supplementary Materials
 - [SEQ Summary Sheet](./Week7-SEQ_Summary.pdf)
